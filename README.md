@@ -1,1 +1,3 @@
-# Anbernic-RG353V
+# Anbernic
+
+Wiki: https://github.com/smallconsoles/Anbernic/wiki
